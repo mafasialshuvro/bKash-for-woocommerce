@@ -47,7 +47,7 @@ Using this plugin, merchant can setup bKash payment gateway with selected produc
 * Check Balances
 * Intra account transfer
 * Disburse Money
-* Transfer History
+* Transfer Histofdfsfsfdsfry
 * Refund a Transaction
 * Agreements
 * Web-hooks
